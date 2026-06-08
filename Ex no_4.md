@@ -5,10 +5,15 @@ To write a C program to read the age of a person and determine whether he is eli
 
 ## Algorithm
 1. Start the program.
+
 2.Declare an integer variable for age.
+
 3.Get the age from the user.
+
 4.Check whether the age is greater than or equal to 21.
+
 5.If true, display Eligible for marriage.
+
 6.Stop the program.
  
 
